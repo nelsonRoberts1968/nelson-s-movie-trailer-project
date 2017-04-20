@@ -1,7 +1,7 @@
 # nelson's-movie-trailer-project
 Simple website that uploads my favorite movie trailers with an option of watching the trailer, whenever the movie image is clicked.
 
-__***Project Purpose***__
+_ _**Project Purpose**_ _
 
 Puprose of this project is to help solidifies basic computer proramming principles. 
 
