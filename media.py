@@ -4,8 +4,11 @@ import webbrowser
 
 class Movie():
 
-    #the constructor method
-    def __init__(self,movie_title, movie_storyline, poster_image, trailer_youtube):
+    """the constructor method , containing the movie,
+     movie storyline, poster image and the movie trailer """
+    
+    def __init__(self,movie_title, movie_storyline, 
+                 poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
