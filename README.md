@@ -11,6 +11,7 @@ the movie poster icon is clicked the movie trailer of the movie will play.
 
 __**How To Run  The Project**__
 
-Projetc will be run using Python Shell(IDLE Python GUI) Locate a folder movies containing the entainmentcenter.py,media.py click a project with browser icon titled tometoes.html . 
+Projetc will be run using Python Shell(IDLE Python GUI).
+Locate a folder movies containing the entainmentcenter.py,media.py click a project with browser icon titled tometoes.html  
 Right click the project and select open the html file will load the page.
 You will see all your movies loaded to the page.
