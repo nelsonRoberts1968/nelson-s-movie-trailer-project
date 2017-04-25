@@ -35,7 +35,7 @@ the_matrix= media.Movie("The Matrix",
                         "https://www.youtube.com/watch?v=vKQi3bBA1y9")
 
 
-# The movie array to load the movie list that gets uploded on the webpage
+# The movies array to load the movie list that gets loaded into the html webpage
 
 movies = [gladiator,training_day,troy,toy_story, avatar, the_matrix]
 fresh_tomatoes.open_movies_page(movies)
